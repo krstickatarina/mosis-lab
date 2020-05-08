@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330103697330",
+    "firebase_url": "https://myplaces-50309.firebaseio.com",
+    "project_id": "myplaces-50309",
+    "storage_bucket": "myplaces-50309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330103697330:android:ce9d735edddfcb40fcfeab",
+        "android_client_info": {
+          "package_name": "rs.elfak.mosis.katarina.myplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330103697330-3uc4l3fa0mm560ruj1oj6c8nkfm56q83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rs.elfak.mosis.katarina.myplaces",
+            "certificate_hash": "9b327bc543eb809d4ce098901e9d42e9f932cef3"
+          }
+        },
+        {
+          "client_id": "330103697330-f0uh299te4k3sq24n9fkjpp991pjj62s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmuYAtrGjKdkZ80-7GCPf4l4Z9b644jo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330103697330-f0uh299te4k3sq24n9fkjpp991pjj62s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
